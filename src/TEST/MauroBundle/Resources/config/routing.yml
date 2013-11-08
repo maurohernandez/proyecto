@@ -1,0 +1,3 @@
+test_mauro_homepage:
+    pattern:  /
+    defaults: { _controller: TESTMauroBundle:Default:index }

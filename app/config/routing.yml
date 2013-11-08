@@ -1,0 +1,16 @@
+otra_survey:
+    resource: "@OTRASurveyBundle/Resources/config/routing.yml"
+    prefix:   /
+
+#test_mauro:
+ #   resource: "@TESTMauroBundle/Resources/config/routing.yml"
+  #  prefix:   /
+
+#naut_firs:
+ #   resource: "@NautFirsBundle/Resources/config/routing.yml"
+  #  prefix:   /
+
+#sice_hola:
+ #   resource: "@SICEHolaBundle/Resources/config/routing.yml"
+  #  prefix:   /
+

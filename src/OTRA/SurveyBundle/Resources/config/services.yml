@@ -1,0 +1,7 @@
+parameters:
+#    otra_survey.example.class: OTRA\SurveyBundle\Example
+
+services:
+#    otra_survey.example:
+#        class: %otra_survey.example.class%
+#        arguments: [@service_id, "plain_value", %parameter%]

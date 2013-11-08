@@ -1,0 +1,7 @@
+parameters:
+#    naut_firs.example.class: Naut\FirsBundle\Example
+
+services:
+#    naut_firs.example:
+#        class: %naut_firs.example.class%
+#        arguments: [@service_id, "plain_value", %parameter%]

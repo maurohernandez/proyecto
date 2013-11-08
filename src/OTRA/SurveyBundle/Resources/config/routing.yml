@@ -1,0 +1,7 @@
+otra_survey_homepage:
+    pattern:  /
+    defaults: { _controller: OTRASurveyBundle:Default:index }
+
+OTRASurveyBundle_survey:
+     resource: "@OTRASurveyBundle/Resources/config/routing/survey.yml"
+     prefix:   /survey
