@@ -60,7 +60,7 @@ class Question
        protected $survey;
        
        
-       echo "hola";
+       
 
        /**
         * 
