@@ -60,7 +60,8 @@ class Question
        protected $survey;
        
        
-       
+       echo "hola";
+
        /**
         * 
         * @ORM\ManyToOne(targetEntity="QuestionType", inversedBy="questions")
