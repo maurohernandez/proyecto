@@ -1,4 +1,0 @@
-proyecto
-========
-
-iniciando en github
