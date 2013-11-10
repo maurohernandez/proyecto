@@ -21,6 +21,7 @@ framework:
     fragments:       ~
     http_method_override: true
 
+# este comentario
 # Twig Configuration
 twig:
     debug:            %kernel.debug%
